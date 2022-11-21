@@ -1,2 +1,5 @@
 # Projeto Range Hotels
- Projeto realizado durante o Curso Web Design Completo: HTML5, CSS3 e JS + 5 ProjetosWebdesign/ Front-end Fundamentos.  Ministrado pelo professor Daniel Tapias Morales, pela escola Ser Front End. 
+ Projeto realizado durante o __Curso Web Design Completo: HTML5, CSS3 e JS__(Front-end Fundamentos).  
+ Curso ministrado pelo professor *Daniel Tapias Morales*, pela escola SerFrontEnd.
+contato: https://serfrontend.com/cursos/
+
